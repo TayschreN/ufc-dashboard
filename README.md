@@ -5,8 +5,9 @@ Este projeto apresenta um Dashboard de Análise de Lutas do UFC desenvolvido no 
 O objetivo foi transformar dados brutos de lutas em insights visuais claros e interativos, permitindo uma análise completa do cenário do MMA profissional.
 
 ---
-![Dashboard](./images/dashboard1.png)
-
+![Dashboard](/img/Capa.jpg)
+![Dashboard](/img/Tela1.jpg)
+![Dashboard](/img/Tela2.jpg)
 ---
 
 ## Objetivos:
