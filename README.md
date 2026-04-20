@@ -1,16 +1,11 @@
-# 🥊 UFC Dashboard - Análise de Estatísticas e Dados
+# 🥊 UFC - Análise de Dados e Dashboard
 
 Este projeto apresenta um Dashboard de Análise de Lutas do UFC desenvolvido no Power BI, com foco na exploração de estatísticas históricas, desempenho de lutadores e padrões de finalização.
 
 O objetivo foi transformar dados brutos de lutas em insights visuais claros e interativos, permitindo uma análise completa do cenário do MMA profissional.
 
 ---
-
-## 📊 Dashboard Preview
-
-<!-- Adicione aqui as imagens do dashboard -->
-<!-- Exemplo: -->
-<!-- ![Dashboard](./images/dashboard1.png) -->
+![Dashboard](./images/dashboard1.png)
 
 ---
 
